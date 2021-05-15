@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+<servlet-name>servletdemowithoutide</servlet-name>
+<servlet-class>ServletDemoWithoutIde</servlet-class>
+</servlet>
+
+<servlet-mapping>
+<servlet-name>servletdemowithoutide</servlet-name>
+<url-pattern>/welcome</url-pattern>
+</servlet-mapping>
+
+</web-app>
