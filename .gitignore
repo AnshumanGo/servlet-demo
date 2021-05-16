@@ -32,7 +32,7 @@ build
 dump.rdb
 generated-test-sources/
 out/
-classes/
+
 .m2/
 /.metadata/
 
