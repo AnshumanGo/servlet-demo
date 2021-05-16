@@ -2,16 +2,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Servlet - Dispatcher</title>
+    <title>Servlet - Config - Context - Attribute - Example</title>
 </head>
 <body>
 <h1><%= "User Login" %>
 </h1>
 <br/>
 <form action="login" method="post">
-    Name     :<input type="text" name="userName"/><br/>
-    Password :<input type="password" name="userPassword"/><br/>
-    <input type="submit" value="Login"/>
+    <input type="submit" value="Secret Login"/>
 </form>
 </body>
 </html>
